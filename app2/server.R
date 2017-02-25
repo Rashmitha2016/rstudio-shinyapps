@@ -1,3 +1,5 @@
+# This is Rashmitha Submission 
+
 calculateBMI <- function(weight, height) {
   return((weight / (height * height)) * 703)
 }
