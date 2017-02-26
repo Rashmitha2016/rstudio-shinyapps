@@ -11,16 +11,16 @@ bmiToLabel <- function(bmi) {
   # Obesity = BMI of 30 or greater
   
   if(bmi < 18.5) {
-    return("Underweight")
+    return("Underweight.Hmm..Time to get Eating some Protein and Carbs to gain some Weight")
   }
   else if(bmi < 25) {
-    return("Normal weight")
+    return("Normal weight.Good going!! Maintain the same level of intakes and workouts")
   }
   else if(bmi < 30) {
-    return("Overweight")
+    return("Overweight.Someone needs to welcome some Workout into the lifestyle!!")
   }
   else {
-    return("Obese")
+    return("Obese.Serious Workout required to stay healthier!!")
   }
 }
 

@@ -3,8 +3,9 @@ title: app2
 account: rashmitha2017
 server: shinyapps.io
 appId: 159356
-bundleId: 724883
+bundleId: 725019
 url: https://rashmitha2017.shinyapps.io/app2/
-when: 1488056083.78124
+when: 1488066629.73712
 asMultiple: FALSE
 asStatic: FALSE
+ignoredFiles: figure/unnamed-chunk-2-1.png|repropre-figure/unnamed-chunk-1-1.png|repropre-figure/unnamed-chunk-2-1.png
