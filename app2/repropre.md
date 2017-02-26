@@ -74,7 +74,7 @@ For a healthy lifestyle,I have some tips for you:
 
 [Check your BMI here with my simple app](https://rashmitha2017.shinyapps.io/app2/)  
 
-[You can find the sources here](https://github.com/Rashmitha2016/rstudio-shinyapps/tree/master/app2)
+[You can find the source.R and ui.R here](https://github.com/Rashmitha2016/rstudio-shinyapps/tree/master/app2)
 
 
 
